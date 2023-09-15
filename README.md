@@ -3,17 +3,15 @@ _readme  |  A repo include resume files and README.md files.
 # Surbhi Singhania
 
 ##  About
-I am a full stack web developer with knowledge of some  . Fun Fact- Love to do drawing.
+I am a full stack web developer with knowledge of some programming languages like HTML, CSS, JavaScript . Currently pursuing Web Development in Humber College. Fun Fact- Love to do drawing.
 
 ![Alt text](_readme/SURBHI.jpg)
 
 
 ## Projects
- - Blog website.  
-   - Technology used- HTML, CSS, JavaScript
-
- - Food Delivery Website.  
-   - Technlogy used -Php
+ | Title | URl | Technlogy |
+ | Blog website. | file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html | HTML, CSS, JavaScript |
+ | Food Delivery Website. | file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html | Php |
 
 ## Education 
  - I have done btech in computer science with specialization in full stack web development.   
