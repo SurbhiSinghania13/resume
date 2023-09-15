@@ -22,5 +22,5 @@ I am a full stack web developer with knowledge of some programming languages lik
  - Having 2 year work experience as a coding instructor 
 
 ## Contact
-Github Link - https://github.com/SurbhiSinghania13  
-Linkedin Link - https://www.linkedin.com/in/surbhi-singhania/
+ - Github Link - https://github.com/SurbhiSinghania13  
+ - Linkedin Link - https://www.linkedin.com/in/surbhi-singhania/
