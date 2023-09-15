@@ -5,9 +5,12 @@ _readme  |  A repo include resume files and README.md files.
 ##  About
 I am a full stack web developer with knowledge of some  . Fun Fact- Love to do drawing.
 
+![Alt text](_readme/SURBHI.jpg)
+
+
 ## Projects
  - Blog website.  
-   - Techn0logy used- HTML, CSS, JavaScript
+   - Technology used- HTML, CSS, JavaScript
 
  - Food Delivery Website.  
    - Technlogy used -Php
@@ -17,7 +20,7 @@ I am a full stack web developer with knowledge of some  . Fun Fact- Love to do d
  - Did my Pg in blockchain and beck-end development.
 
 ## Work Experience
-Having 2 year work experience as a coding instructor 
+ - Having 2 year work experience as a coding instructor 
 
 ## Contact
 Github Link - https://github.com/SurbhiSinghania13  
