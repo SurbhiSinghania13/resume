@@ -5,7 +5,7 @@ _readme  |  A repo include resume files and README.md files.
 ##  About
 I am a full stack web developer with knowledge of some programming languages like HTML, CSS, JavaScript . Currently pursuing Web Development in Humber College. Fun Fact- Love to do drawing.
 
-![Alt text](_readme/SURBHI.jpg)
+![My image](_readme/SURBHI.jpg)
 
 
 ## Projects
