@@ -6,10 +6,10 @@ _readme  |  A repo include resume files and README.md files.
 I am a full stack web developer with knowledge of some  . Fun Fact- Love to do drawing.
 
 ## Projects
-Blog website
+Blog website.
 Technlogy used- HTML, CSS, JavaScript
 
-Food Delivery Website 
+Food Delivery Website.
 Technlogy used -Php
 
 ## Education 
