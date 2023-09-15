@@ -9,9 +9,9 @@ I am a full stack web developer with knowledge of some programming languages lik
 
 
 ## Projects
- | Title | URl | Technlogy |
- | Blog website. | file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html | HTML, CSS, JavaScript |
- | Food Delivery Website. | file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html | Php |
+ |Title|URl|Technlogy|
+ |Blog website.|file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html|HTML, CSS, JavaScript|
+ |Food Delivery Website.|file:///C:/Users/vishr/Desktop/web%20development%20Surbhi/class1%20http%205111/assignment1/JS_Assign-1-groupLogin.html|Php|
 
 ## Education 
  - I have done btech in computer science with specialization in full stack web development.   
